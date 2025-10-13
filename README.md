@@ -1,7 +1,5 @@
 # Advanced Sports Betting Strategies and Data Analytics
 
-![Betting Analytics](img.jpeg)
-
 ## Overview
 
 This Jupyter Notebook explores **data-driven betting strategies** using **Python** and the **OddsJam API**.
